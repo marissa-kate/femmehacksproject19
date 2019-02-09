@@ -1,0 +1,37 @@
+#red{
+	color:red;
+}
+#orange{
+	color:orange;
+}
+#yellow{
+	color:yellow;
+}
+#green{
+	color:green;
+}
+#blue{
+	color:blue;
+}
+#purple{
+	color:purple;
+}
+#pink{
+	color:pink;
+}
+img{
+	width:50%;
+	height:30%;
+	border-style:double;
+	border-color:gray;
+	border-radius:50px;
+}
+#home{
+	background: gray;
+}
+#about{
+	background:gray;
+}
+#rainbow{
+	background:gray;
+}
